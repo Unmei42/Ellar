@@ -1,0 +1,30 @@
+NOTICE
+======
+
+This project includes and relies on the openSMILE audio feature extraction toolkit,
+developed by audEERING GmbH and the Technical University of Munich (TUM).
+
+Component:
+----------
+SMILExtract.exe (compiled binary)
+Based on: openSMILE (https://audeering.github.io/opensmile/)
+
+License:
+--------
+Apache License, Version 2.0, January 2004
+http://www.apache.org/licenses/LICENSE-2.0
+
+Summary of obligations:
+------------------------
+- You may use, reproduce, and distribute the binary and source code.
+- You must include a copy of the Apache 2.0 License with any redistribution.
+- You must not use the names "audEERING", "TU München" or the names of their contributors
+  to promote or endorse derived products without prior written permission.
+- You must indicate any modifications made when redistributing the source code.
+
+Acknowledgement:
+----------------
+The creators of this project express their full respect and appreciation to the developers of openSMILE,
+which forms the analytical core of this user interface.
+
+All rights and trademarks related to openSMILE and SMILExtract remain with their respective owners.

@@ -1,0 +1,27 @@
+CUSTOM LICENSE
+==============
+
+ENGLISH VERSION
+----------------
+This project is distributed freely under the following conditions:
+
+1. You may use, modify, and redistribute it in **non-commercial or conditionally commercial** projects, **only if a fully functional and publicly accessible free version is always available**.
+
+2. You must retain author credit: **"idea by Unmei42"** in any redistributed or modified version. This can appear in the README, UI, or code comments.
+
+3. The credit may be minimal and non-intrusive but must be visible when reviewing the source code or interacting with the application.
+
+Use in closed-source commercial products or paid-only software versions is **not allowed**.
+
+
+УКРАЇНСЬКА ВЕРСІЯ
+-------------------
+Цей проєкт поширюється вільно за наступних умов:
+
+1. Ви можете використовувати, змінювати та поширювати його у **некомерційних або умовно комерційних** проєктах, **лише за умови, що завжди доступна повнофункціональна та публічна безкоштовна версія**.
+
+2. Ви зобов'язані вказати авторство: **"idea by Unmei42"** у будь-якій розповсюдженій або зміненій версії. Це може бути у README, інтерфейсі або коментарях до коду.
+
+3. Авторство може бути мінімальним і ненав’язливим, але має бути видимим під час перегляду коду або використання програми.
+
+Використання у закритих комерційних продуктах або виключно платному програмному забезпеченні **заборонено**.
