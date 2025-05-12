@@ -40,6 +40,11 @@ The credit may be minimal or textual, but must be visible when reviewing the sou
 
 ---
 
+Need help interpreting the results?  
+Try the linked GPT assistant created for this project: https://chatgpt.com/share/6822471b-b5f8-800e-9616-103d5bb903ae
+
+---
+
 We welcome contributions — improve the UI, expand functionality, or adapt it to your needs.
 
 ========================
@@ -81,6 +86,11 @@ python wav-to-text.py
 
 
 Підпис може бути текстовим, ненав’язливим, але повинен бути помітним при перегляді вихідного коду або інтерфейсу.
+
+---
+
+Потрібна допомога з інтерпретацією результатів?  
+Скористайся GPT-помічником, створеним спеціально для цього проєкту: https://chatgpt.com/share/6822471b-b5f8-800e-9616-103d5bb903ae
 
 ---
 
